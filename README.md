@@ -14,8 +14,9 @@ Implemented logistic regression for binary classification to predict survival pr
 Conducted thorough model evaluation and interpretation of results.
 Files:
 
-titanic_analysis.ipynb: Jupyter Notebook containing the code for the Titanic Survivor Analysis.
-data/titanic_dataset.csv: Dataset used for analysis.
+Titanic Logistic Model.ipynb: Jupyter Notebook containing the code for the Titanic Survivor Analysis.
+Titanic-Dataset.csv: Dataset used for analysis.
+
 2. Sales Prediction with Linear Regression
 Objective:
 Analyze and predict sales trends using Linear Regression.
@@ -27,8 +28,9 @@ Explored customer behavior and identified factors impacting sales.
 Developed insights to optimize sales strategies and enhance business performance.
 Files:
 
-sales_prediction.ipynb: Jupyter Notebook containing the code for Sales Prediction using Linear Regression.
-data/sales_data.csv: Dataset used for analysis.
+Sales Prediction.ipynb: Jupyter Notebook containing the code for Sales Prediction using Linear Regression.
+advertising.csv: Dataset used for analysis.
+
 3. Iris Flower Classification with Decision Trees
 Objective:
 Implement a classification model for Iris flower species using Decision Trees.
@@ -38,3 +40,8 @@ Key Highlights:
 Applied Decision Tree algorithms for multi-class classification of Iris flower species.
 Explored feature importance and decision boundaries in the classification process.
 Enhanced understanding of classification algorithms and their applications.
+
+Files:
+
+IRIS Flower.ipynb: Jupyter Notebook containing the code for Sales Prediction using Linear Regression.
+IRIS.csv: Dataset used for analysis.
